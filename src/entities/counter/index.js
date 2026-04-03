@@ -1,0 +1,1 @@
+export { store, increment, decrement } from './model/store';

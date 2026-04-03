@@ -1,0 +1,1 @@
+export { renderFirstCounter } from "./ui/FirstCounter";

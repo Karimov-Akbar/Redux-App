@@ -1,0 +1,1 @@
+export { renderSecondCounter } from "./ui/SecondCounter";
